@@ -12,7 +12,7 @@ function ChangeSize() {
   };
 
   const labelStyle = {
-    display: "block", // Blok düzenine ayarlayarak alt alta gelmelerini sağlar
+    display: "block",
   };
 
   return (
